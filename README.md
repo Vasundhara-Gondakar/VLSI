@@ -1,15 +1,16 @@
 
-# Standard Cell Layout Design Using UMC 180 nm Technology
+# Standard Cell Layout Design – UMC 180 nm
 
-Designed and implemented the layouts of five standard cells, along with an inverter and an AND gate, using **Cadence Virtuoso** and **UMC 180 nm CMOS technology**.
+Designed and implemented standard cell layouts using **Cadence Virtuoso** and **UMC 180 nm CMOS technology**.
+
+### Cells Designed
+- AOI21 
+- OAI31
+- 2:1 Multiplexer (MUX) 
+- Inverter
+- AND Gate
 
 ### Tools & Technology
 - **EDA Tool:** Cadence Virtuoso
 - **Technology:** UMC 180 nm CMOS
-- **Design:** Schematic and Layout
-
-### Cells Designed
-- Five standard cells
-- Inverter
-- AND Gate
 
